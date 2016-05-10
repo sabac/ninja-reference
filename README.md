@@ -1,6 +1,6 @@
 # ninja-reference
 
-Dieses Repository dient als Kurzreferenz für den Smartninja Kurs *Web Development 1*.
+Dieses Repository dient als Kurzüberblick für den Smartninja Kurs *Web Development 1*.
 
 Du siehst gerade die Datei "README.md". Der eigentliche Inhalt liegt in "index.html". Dort soll eine kurze Zusammenfassung der bisherigen Inhalte entstehen.
 
