@@ -1,2 +1,2 @@
 # ninja-reference
-a short reference for the HTML/CSS part of the smartninja web dev course (German)
+Dieses Dokument dient als Kurzreferenz für den Smartninja Kurs *Web Development 1*.
